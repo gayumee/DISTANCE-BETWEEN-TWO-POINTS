@@ -22,7 +22,7 @@ distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 print("%.2f"%distance)
 ```
 ### OUTPUT:
-7.21
+![Screenshot 2024-04-27 162155](https://github.com/gayumee/DISTANCE-BETWEEN-TWO-POINTS/assets/149037327/5b150b8d-9c52-4941-9bf5-3a69c04c106e)
 
 ### RESULT:
 Thus finding the distance between 2 points using python is executed successfully.
